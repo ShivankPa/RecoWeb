@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(197, 154, 13);
+    color: rgb(153, 77, 15);
+}
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+
+.name_of_objects {
+    color: darkgrey;
+}
+
